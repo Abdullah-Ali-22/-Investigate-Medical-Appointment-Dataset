@@ -33,3 +33,10 @@ Ford_GoBike_Exploration.ipynb- Main project file :a IPython Notebook that contai
 Ford_GoBike_Visualization.ipynb-- This IPython Notebook contains main sildes of the important viualizations.
 ##  
 Readme.md
+
+# Main Finding
+1-Increasing the number of users as the increase of the user Age starting from age 20 years old till the peak with maximum nuber of user at age about 30 years old and then start to decrease again and almost there are no users above 80 years old.
+2- Most of the trip durations are less than 20000 sec and duration of the bike trip start to decrease at age above 50 years old.
+3- The Men gender at age between 20 and 50 yers old spent more time in their bike trip than Female gender at the same age period.
+4-Both Customer users and Suscriber User showing similar distribution of the age and as expected Suscriber represent more Users than Customers.
+5-Only 16.5 precent of the users started their riding in the weekend and the other during druing the week, That was not expecting as the people in the weekend have more time. The busiest day is Thursday which more users choosed this day to start their riding.
