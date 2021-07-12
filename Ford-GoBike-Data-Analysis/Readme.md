@@ -26,3 +26,8 @@ Currently has over 2,600 bicycles in 262 stations. Datasets consist of 16 column
 Numpy, Matplotlip, Pandas, Seaborn
 ### Software
 Jupter Notebook, Python 3
+
+#Python Notebook and Scripts
+Ford_GoBike_Exploration.ipynb- Main project file, a IPython Notebook that contains the analysis for the project.
+Ford_GoBike_Visualization.ipynb-- This IPython Notebook contains main sildes of the important viualizations.
+Readme.md
